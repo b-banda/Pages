@@ -10,7 +10,7 @@ body {
 
 /* Header Styling */
 header {
-    background-color: #4CAF50;
+    background-color: #585958;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -41,7 +41,7 @@ main {
 }
 
 h2 {
-    color: #4CAF50;
+    color: #585958;
     border-bottom: 2px solid #4CAF50;
     padding-bottom: 5px;
 }
@@ -67,7 +67,7 @@ footer {
 
 /* Links */
 a {
-    color: #4CAF50;
+    color: #585958;
     text-decoration: none;
 }
 
